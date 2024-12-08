@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">日纪</string>
+    <string name="widget_daily_record_description" translatable="false">日纪</string>
+</resources>
